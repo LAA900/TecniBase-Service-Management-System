@@ -30,7 +30,7 @@ El sistema integra una interfaz desarrollada en Python con una base de datos MyS
 
 El sistema fue diseñado utilizando una base de datos relacional compuesta por entidades relacionadas con clientes, empleados, equipos, servicios técnicos, productos, inventario, ventas y facturación.
 
-![Modelo Lógico](docs/modelo_logico.png)
+![Modelo Lógico](docs/modelo_logico.jpg)
 
 ## Características de la Base de Datos
 
@@ -79,7 +79,7 @@ El sistema contempla distintos perfiles de usuario con permisos específicos:
 
 ### Menú Principal
 
-![Menú Principal](docs/menu_principal.jpg)
+![Menú Principal](docs/menu_principal.png)
 
 ### Registro de Clientes
 
