@@ -30,7 +30,7 @@ El sistema integra una interfaz desarrollada en Python con una base de datos MyS
 
 El sistema fue diseñado utilizando una base de datos relacional compuesta por entidades relacionadas con clientes, empleados, equipos, servicios técnicos, productos, inventario, ventas y facturación.
 
-![Modelo Lógico](docs/modelo_logico.jpg)
+![Modelo Lógico](Tecnibase/docs/modelo_logico.jpg)
 
 ## Características de la Base de Datos
 
