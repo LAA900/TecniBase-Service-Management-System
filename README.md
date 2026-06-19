@@ -79,19 +79,19 @@ El sistema contempla distintos perfiles de usuario con permisos específicos:
 
 ### Menú Principal
 
-![Menú Principal](docs/menu_principal.png)
+![Menú Principal](Tecnibase/docs/menu_principal.png)
 
 ### Registro de Clientes
 
-![Registro Cliente](docs/registro_cliente.png)
+![Registro Cliente](Tecnibase/docs/registro_cliente.png)
 
 ### Gestión de Inventario
 
-![Inventario](docs/inventario.png)
+![Inventario](Tecnibase/docs/inventario.png)
 
 ### Reporte de Servicios
 
-![Reporte Servicios](docs/reporte_servicios.png)
+![Reporte Servicios](Tecnibase/docs/reporte_servicios.png)
 
 ## Estructura del Proyecto
 
